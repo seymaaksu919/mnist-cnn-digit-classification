@@ -5,9 +5,9 @@ Görsel verilerdeki kenar, köşe, şekil gibi özellikleri otomatik olarak öğ
 Özellikle görüntü sınıflandırma, nesne tespiti ve el yazısı tanıma gibi görevlerde yaygın olarak kullanılır.
 Bu projede CNN, MNIST el yazısı rakamlarını yüksek doğrulukla tanımak için tercih edilmiştir.
 
-> **MNIST veri seti** kullanılarak el yazısı rakamları (0-9) sınıflandırmak için geliştirilmiş bir **Convolutional Neural Network (CNN)** projesidir.
-> TensorFlow ve Keras ile derin öğrenme uygulamasıdır.
-> Model ayrıca kendi eklediğim el yazısı rakam görselleri üzerinde de test edilmiştir.
+**MNIST veri seti** kullanılarak el yazısı rakamları (0-9) sınıflandırmak için geliştirilmiş bir **Convolutional Neural Network (CNN)** projesidir.
+TensorFlow ve Keras ile derin öğrenme uygulamasıdır.
+Model ayrıca kendi eklediğim el yazısı rakam görselleri üzerinde de test edilmiştir.
 
 
 
@@ -89,5 +89,3 @@ Modelin bu görseli **8 olarak tahmin etmesinin nedenleri**:
 * **Test Doğruluğu**: \~%98+
 * Kendi görsellerim üzerinde de yüksek doğruluk gözlemlenmiştir.
 
-
-Bu proje [MIT Lisansı](LICENSE) ile lisanslanmıştır.
